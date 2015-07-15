@@ -1,0 +1,8 @@
+git log
+git diff origFile newFile
+git checkout
+git init
+git status
+git add
+git reset
+
