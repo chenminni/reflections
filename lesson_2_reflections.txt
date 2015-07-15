@@ -6,3 +6,7 @@ git status
 git add
 git reset
 
+How is the staging area different from the working direcotry and the repository?
+What value do you tink it offers?
+
+Staging area are refer to the files that has been tracked.
