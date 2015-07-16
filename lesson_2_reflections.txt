@@ -5,8 +5,23 @@ git init
 git status
 git add
 git reset
-
+git show commit_id
+git branch -d coins]
+git merge --abort
+git log --graph --oneline master coint
 How is the staging area different from the working direcotry and the repository?
 What value do you tink it offers?
 
 Staging area are refer to the files that has been tracked.
+
+
+www.gliffy.com
+yuml.me/diagram/activity/draw
+
+
+git remote
+git remote add origin url
+git remote -v
+git push origin master
+git pull origin master
+git pull or
